@@ -1,0 +1,6 @@
+1、假设你的PictureServer文件夹在E盘根目录，则在windows控制台中输入如下命令,该服务中绑定的网络端口号为3000:
+
+E:
+cd PictureServer
+cd bin
+node www
